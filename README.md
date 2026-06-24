@@ -1,2 +1,2 @@
 # funny_ideal
-奇思妙想
+some funny ideal
